@@ -58,6 +58,3 @@ class RandomMix(Script):
                 data[layer_index] = final_lines
         return data
 
-#M163 S0 P0
-#M163 S1 P1
-#M164 S2
